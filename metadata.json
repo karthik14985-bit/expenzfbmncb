@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Expense Tracker",
+  "description": "A smart fintech expense tracker that uses AI for receipt scanning, financial insights, and automated categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
